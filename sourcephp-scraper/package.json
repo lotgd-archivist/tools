@@ -1,0 +1,16 @@
+{
+    "name": "sourcephp-scraper",
+    "version": "1.0.0",
+    "description": "Scraper for lotgd 0.9.7 source.php.",
+    "main": "index.js",
+    "author": "lotgd-archivist",
+    "license": "GPL-2.0",
+    "scripts": {
+      "scrape": "node index.js"
+    },
+    "dependencies": {
+      "jsdom": "^20.0.0",
+      "node-fetch": "^3.2.10"
+    }
+  }
+  
